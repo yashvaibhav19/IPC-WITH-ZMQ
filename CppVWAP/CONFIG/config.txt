@@ -1,0 +1,3 @@
+zmq-addr=tcp://127.0.0.1:5556
+zmq-hwm=2000
+consumer-thread-affinity=2

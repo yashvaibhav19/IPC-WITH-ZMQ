@@ -1,0 +1,5 @@
+python-dotenv
+websocket-client
+finnhub-python
+pyzmq
+orjson
